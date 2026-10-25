@@ -1,0 +1,22 @@
+{
+  "updated_at": "2026-10-25T02:17:42Z",
+  "packs": [
+    {
+      "pack_id": "aventureiro",
+      "title": "Breath of the Wild: Aventureiro",
+      "author": "Ruby Achievements",
+      "description": "Runas, santuários, Bestas Divinas, memórias, chefes, Koroks e a derrota de Ganon (lidas do save e da memória do jogo).",
+      "version": "1.0.0",
+      "total_achievements": 55,
+      "target": {
+        "type": "native",
+        "title_id": "01007EF00011E000",
+        "supported_build_ids": [
+          "CD57B23FA4BBAD65803D9788C01821EE"
+        ]
+      },
+      "download_url": "https://raw.githubusercontent.com/andrademats/ruby-achievements-packs/main/packs/01007EF00011E000.aventureiro.rubydb",
+      "sha256": "6a854860334ad6ada1622c5eea02ab2dcac3fab101d56d8c394bfeea372f1868"
+    }
+  ]
+}
